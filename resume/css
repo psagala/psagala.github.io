@@ -6,7 +6,7 @@
 }
 body
 {
-    background-color: var(--UNC-Gray);
+    background-color: pink;
 }
 *
 {
