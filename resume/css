@@ -1,0 +1,37 @@
+:root
+{
+  --UNC-Blue:#013c65;
+  --UNC-Gold: #f6b000;
+  --UNC-Gray: #8a8a8d;
+}
+body
+{
+    background-color: var(--UNC-Gray);
+}
+*
+{
+    color: var(--UNC-Blue);
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    font-size: calc(12pt + 4vw);
+}
+nav
+{
+    border: 3px var(--UNC-Gold) solid;
+}
+section
+{
+    border: 3px var(--UNC-Blue) solid;
+    margin: 5px;
+}
+.date
+{
+    color: var(--UNC-Gold);
+}
+li
+{
+    display: block;
+}
